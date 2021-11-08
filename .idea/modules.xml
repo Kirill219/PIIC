@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GameDevelop.iml" filepath="$PROJECT_DIR$/.idea/GameDevelop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pacman-with-python-master.iml" filepath="$PROJECT_DIR$/.idea/pacman-with-python-master.iml" />
     </modules>
   </component>
 </project>
